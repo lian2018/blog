@@ -373,7 +373,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-#baidu_analytics:
+baidu_analytics: 416ccd1ec0740b037d0a063ac48fb068
 
 # Duoshuo ShortName
 #duoshuo_shortname:
@@ -710,3 +710,7 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
+
+
+
